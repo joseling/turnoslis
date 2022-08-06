@@ -57,7 +57,7 @@ export default function TodoApp() {
           value={title}
           className="todoInput"
         />
-        <input value="Create todo" type={"submit"} className="buttonCreate" />
+        <input value="Agregar" type={"submit"} className="buttonCreate" />
       </form>
 
       <div className="todosContainer">
